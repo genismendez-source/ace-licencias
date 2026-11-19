@@ -5,6 +5,6 @@
   "aviso_administrador": "Sincronización en tiempo real PC <-> Móvil activa.",
   "cloud_supabase_url": "https://zjpyafuyuccwnukhcmlk.supabase.co",
   "cloud_supabase_anon_key": "sb_publishable_nWpiIYXPFo986XdWyeWycQ_9YEXkV87",
-  "url_descarga": "https://github.com/genismendez-source/ace-actualizaciones/releases/latest/download/ace_update.zip",
-  "hash_sha256": "AQUI_EL_HASH_DEL_ZIP"
+  "url_descarga": "",
+  "hash_sha256": ""
 }
