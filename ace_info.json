@@ -1,8 +1,7 @@
 {
-    "app": "ControlHorarioACE",
-    "ultima_version": "VER.20.9rev6igem-CLOUD",
-    "min_sdk_android": 29,
-    "aviso_administrador": "Sincronización en tiempo real PC <-> Móvil activa.",
-    "cloud_supabase_url": "https://zjpyafuyuccwnukhcmlk.supabase.co",
-    "cloud_supabase_anon_key": "sb_publishable_nWpiIYXPFo986XdWyeWycQ_9YEXkV87"
+    "cloud_supabase_url": "https://TU-URL-DE-SUPABASE.supabase.co",
+    "cloud_supabase_anon_key": "TU-ANON-KEY",
+    "ultima_version": "VER.20.9rev7d_cloud",
+    "url_descarga": "https://github.com/genismendez-source/ace-actualizaciones/releases/latest/download/ace_update.zip",
+    "hash_sha256": "AQUÍ_PONDRÁS_EL_HASH_DEL_ZIP"
 }
