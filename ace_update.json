@@ -1,0 +1,9 @@
+{
+  "app": "ControlHorarioACE",
+  "build": 2,
+  "version": "VER.20.10_1cloud",
+  "url": "https://github.com/genismendez-source/ace-licencias/releases/download/v2/ace_update_2.zip",
+  "sha256": "81b34c18f293aed5f2e024ff4434253dc777f9492fedd6511f7fd6eec763fe72",
+  "notas": "Texto que verá el administrador",
+  "firma": "6ec7caa0916f28074cad02663fbd900c4bf9ca8b182dcfec6573c1830a410c7adbfb6312c3a3f4426027b6578671862a53f832bbb9fd3bda65e1b56d5c966402"
+}
